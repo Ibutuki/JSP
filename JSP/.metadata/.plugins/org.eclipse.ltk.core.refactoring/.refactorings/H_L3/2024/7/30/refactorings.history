@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;user.hbm.xml&apos; to &apos;SSH_L1/src/com.seiryo.entity&apos;&#x0D;&#x0A;- Original project: &apos;H_L3&apos;&#x0D;&#x0A;- Destination element: &apos;SSH_L1/src/com.seiryo.entity&apos;&#x0D;&#x0A;- Original element: &apos;user.hbm.xml&apos;" description="Copy file" destination="=SSH_L1/src&lt;com.seiryo.entity" element1="src/com/seiryo/entity/user.hbm.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1721713730210" units="0" version="1.0"/>
+</session>

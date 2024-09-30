@@ -1,0 +1,23 @@
+1716862490585	Rename resource 'chat.html'
+1716862617612	Delete element
+1716862742779	Rename resource 'chat.html'
+1716862835224	Delete element
+1716862971042	Rename resource 'chatInfo.html'
+1716862993858	Delete elements
+1716863223086	Move 'login.jsp' to 'build'
+1716863226990	Move 'login.jsp' to 'WebContent'
+1716863429665	Delete element
+1716863564179	Move 3 resources to 'css'
+1716863571856	Rename resource 'inc'
+1716863699394	Rename resource 'js'
+1716880804196	Move 'sqljdbc4.jar' to 'lib'
+1716881785680	Copy package
+1716881795532	Delete element
+1716881871721	Delete element
+1716891885403	Infer generic type arguments
+1716961396139	Move 'NewFile.jsp' to 'WebContent'
+1716961866539	Delete element
+1717033149492	Move 'chat.css' to 'inc'
+1717033161670	Move 2 resources to 'inc'
+1717060813391	Copy package
+1717167148621	Delete element

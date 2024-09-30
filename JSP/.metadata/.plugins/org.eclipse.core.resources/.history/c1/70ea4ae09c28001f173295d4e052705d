@@ -1,0 +1,34 @@
+/**
+ * 信息提交修改
+ */
+function pw(){
+	$("#userPass").siblings("span").remove();
+	var pw = $("#userPass").val();
+	if(pw.length > 9 || pw.length < 6){
+		$("#userPass").after("密码长度不正确");
+		return false;
+	}
+	return true;
+}
+function phone(){
+	$("#userPhone5").siblings("span").remove();
+	var userPhone5 = $("#userPhone5").val();
+	if(userPhone5.length != 11){
+		$("#userPhone5").after("密码长度不正确");
+		return false;
+	}
+	return true;
+}
+$(function(){
+	$("#userPass").blur(pw);
+	$("#userPhone5").blur(phone);
+	$("#updateuserinfo").on("click",function(){
+		var  password = $("#userPass").val();
+		var phoneNum = $("#userPhone5").val();
+		if(pw()&&phone()){
+			href="UserServlet?flag=updateMyInfo&password="+password+" &phoneNum="+phoneNum+" "
+		}else{
+			alert("填入信息不正确，请重新输入");
+		}
+	});
+});

@@ -1,0 +1,184 @@
+package com.seiryo.servlet;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import com.seiryo.entity.CommodityType;
+import com.seiryo.entity.Order;
+import com.seiryo.entity.OrderInfo;
+import com.seiryo.entity.Users;
+import com.seiryo.service.OrderService;
+import com.seiryo.service.imp.OrderServiceImp;
+
+/**
+ * Servlet implementation class OrderServlet
+ */
+public class OrderServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       private OrderService service = new OrderServiceImp();
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public OrderServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String flag = request.getParameter("flag");
+		response.setContentType("text/html;charset=utf-8");
+		request.setCharacterEncoding("utf-8");
+		if("queryInfo".equals(flag)){
+			try {
+				queryInfo(request, response);
+			} catch (JSONException e) {
+				e.printStackTrace();
+			}
+			return;
+		}else if("editOrder".equals(flag)){
+			editOrder(request, response);
+			return;
+		}else if("updateOrder".equals(flag)){
+			updateOrder(request, response);
+			return;
+		}else if("inite".equals(flag)){
+			inite(request, response);
+			return;
+		}else if("deleteUser".equals(flag)){
+			deleteOrder(request, response);
+			return;
+		}
+	}
+	/**
+	 * @param request
+	 * @param response
+	 */
+	private void deleteOrder(HttpServletRequest request, HttpServletResponse response) {
+		String orderId = request.getParameter("orderId");
+		service.deleteOrder(orderId);
+	}
+	/**
+	 * @param request
+	 * @param response
+	 * @throws IOException 
+	 * @throws ServletException 
+	 */
+	private void inite(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		List<Order> list = service.queryAll();
+		request.setAttribute("list", list);
+		request.getRequestDispatcher("OrderMange.jsp").forward(request, response);
+	}
+	/**
+	 * @param request
+	 * @param response
+	 */
+	private void updateOrder(HttpServletRequest request, HttpServletResponse response) {
+		int orderInfo = Integer.parseInt(request.getParameter("orderInfoId"));
+		String orderCommodityLiability1 = request.getParameter("orderCommodityLiability1");
+		String orderCommodityLiability2 = request.getParameter("orderCommodityLiability2");
+		String orderCommodityLiability3 = request.getParameter("orderCommodityLiability3");
+		String orderCommodityLiability4 = request.getParameter("orderCommodityLiability4");
+		String orderCommodityLiability5 = request.getParameter("orderCommodityLiability5");
+		String orderCommodityLiability6 = request.getParameter("orderCommodityLiability6");
+		String orderCommodityLiability7 = request.getParameter("orderCommodityLiability7");
+		String orderBeneficiaryName = request.getParameter("orderBeneficiaryName");
+		String orderBeneficiaryCity = request.getParameter("orderBeneficiaryCity");
+		String orderBeneficiary_phone = request.getParameter("orderBeneficiary_phone");
+		String orderCommodity_time_start = request.getParameter("orderCommodity_time_start");
+		String orderCommodity_time_end = request.getParameter("orderCommodity_time_end");
+		String order_commodity_time_length = request.getParameter("order_commodity_time_length");
+		String order_sum_price = request.getParameter("order_sum_price");
+		service.updateOrder(orderInfo, orderCommodityLiability1, orderCommodityLiability2, orderCommodityLiability3, orderCommodityLiability4, orderCommodityLiability5, orderCommodityLiability6, orderCommodityLiability7, orderBeneficiaryName, orderBeneficiaryCity, orderBeneficiary_phone, orderCommodity_time_start, orderCommodity_time_end, order_commodity_time_length, order_sum_price);
+	}
+	/**
+	 * @param request
+	 * @param response
+	 * @throws IOException 
+	 * @throws ServletException 
+	 */
+	private void editOrder(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		int orderInfoId = Integer.parseInt(request.getParameter("orderInfoId"));
+		OrderInfo orderInfo = service.queryOrderInfoByOrderInfoId(orderInfoId);
+		String orderId = orderInfo.getOrderId();
+		String orderCommodityLiability1 = orderInfo.getOrderCommodityLiability1();
+		String orderCommodityLiability2 = orderInfo.getOrderCommodityLiability2();
+		String orderCommodityLiability3 = orderInfo.getOrderCommodityLiability3();
+		String orderCommodityLiability4 = orderInfo.getOrderCommodityLiability4();
+		String orderCommodityLiability5 = orderInfo.getOrderCommodityLiability5();
+		String orderCommodityLiability6 = orderInfo.getOrderCommodityLiability6();
+		String orderCommodityLiability7 = orderInfo.getOrderCommodityLiability7();
+		String orderBeneficiaryName = orderInfo.getOrderBeneficiaryName();
+		String orderBeneficiaryCity = orderInfo.getOrderBeneficiaryCity();
+		String orderBeneficiary_phone = orderInfo.getOrderBeneficiary_phone();
+		String orderCommodity_time_start = orderInfo.getOrderCommodity_time_start();
+		String orderCommodity_time_end = orderInfo.getOrderCommodity_time_end();
+		String order_commodity_time_length = orderInfo.getOrder_commodity_time_length();
+		String order_sum_price = orderInfo.getOrder_sum_price();
+		request.setAttribute("orderInfoId", orderInfoId);
+		request.setAttribute("orderId", orderId);
+		request.setAttribute("orderCommodityLiability1", orderCommodityLiability1);
+		request.setAttribute("orderCommodityLiability2", orderCommodityLiability2);
+		request.setAttribute("orderCommodityLiability3", orderCommodityLiability3);
+		request.setAttribute("orderCommodityLiability4", orderCommodityLiability4);
+		request.setAttribute("orderCommodityLiability5", orderCommodityLiability5);
+		request.setAttribute("orderCommodityLiability6", orderCommodityLiability6);
+		request.setAttribute("orderCommodityLiability7", orderCommodityLiability7);
+		request.setAttribute("orderBeneficiaryName", orderBeneficiaryName);
+		request.setAttribute("orderBeneficiaryCity", orderBeneficiaryCity);
+		request.setAttribute("orderBeneficiary_phone", orderBeneficiary_phone);
+		request.setAttribute("orderCommodity_time_start", orderCommodity_time_start);
+		request.setAttribute("orderCommodity_time_end", orderCommodity_time_end);
+		request.setAttribute("order_commodity_time_length", order_commodity_time_length);
+		request.setAttribute("order_sum_price", order_sum_price);
+		request.getRequestDispatcher("editOrder.jsp").forward(request, response);
+	}
+	/**
+	 * @param request
+	 * @param response
+	 * @throws JSONException 
+	 * @throws IOException 
+	 */
+	private void queryInfo(HttpServletRequest request, HttpServletResponse response) throws JSONException, IOException {
+		String orderId = request.getParameter("orderId");
+		List<OrderInfo> list = service.queryOrderInfoByOrderId(orderId);
+		response.setContentType("application/json;charset=utf-8");
+        PrintWriter out = response.getWriter();
+        JSONArray jsonArray = new JSONArray();
+        for(OrderInfo orderInfo:list){
+        	JSONObject jsonObject = new JSONObject();
+        	 jsonObject.put("orderInfoId", orderInfo.getOrderInfoId());
+             jsonObject.put("orderId", orderInfo.getOrderId());
+             jsonObject.put("orderCommodityLiability1", orderInfo.getOrderCommodityLiability1());
+             jsonObject.put("orderCommodityLiability2", orderInfo.getOrderCommodityLiability2());
+             jsonObject.put("orderCommodityLiability3", orderInfo.getOrderCommodityLiability3());
+             jsonObject.put("orderCommodityLiability4", orderInfo.getOrderCommodityLiability4());
+             jsonObject.put("orderCommodityLiability5", orderInfo.getOrderCommodityLiability5());
+             jsonObject.put("orderCommodityLiability6", orderInfo.getOrderCommodityLiability6());
+             jsonObject.put("orderCommodityLiability7", orderInfo.getOrderCommodityLiability7());
+             jsonObject.put("orderBeneficiaryName", orderInfo.getOrderBeneficiaryName());
+             jsonObject.put("orderBeneficiaryCity", orderInfo.getOrderBeneficiaryCity());
+             jsonObject.put("orderBeneficiary_phone", orderInfo.getOrderBeneficiary_phone());
+             jsonObject.put("orderCommodity_time_start", orderInfo.getOrderCommodity_time_start());
+             jsonObject.put("orderCommodity_time_end", orderInfo.getOrderCommodity_time_end());
+             jsonObject.put("order_commodity_time_length", orderInfo.getOrder_commodity_time_length()); 
+             jsonObject.put("order_sum_price", orderInfo.getOrder_sum_price());
+             jsonArray.put(jsonObject);
+        }
+        out.print(jsonArray.toString());
+        out.flush();
+        out.close();
+	}
+
+}

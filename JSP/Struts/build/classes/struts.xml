@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+<constant name="struts.devMode" value="true" />
+<constant name="struts.enable.DynamicMethodInvocation" value="true"></constant>
+	<package name="Test" extends="struts-default" namespace="/">
+		<action name="Test" class="com.seiryo.servlet.TestServlet1" method="method1">
+			 <result name="success">/success.jsp</result>
+		</action>
+		
+		<action name="Test*" class="com.seiryo.servlet.OneServlet" method="{1}">
+			 <result name="success">/success.jsp</result>
+		</action>
+		
+		
+		<action name="HelloWord" class="com.seiryo.servlet.HelloWord">
+			<result name="success">/success.jsp</result>
+		</action>
+	</package>
+</struts>

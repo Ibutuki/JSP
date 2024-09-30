@@ -1,0 +1,10 @@
+package com.edu.seiryo.dao;
+
+import java.util.*;
+
+import com.edu.seiryo.entity.Practice;
+
+public interface PracticeDao {
+	public List<Practice> queryByComb(Object...objects);
+	public boolean deleteById(int id);
+}

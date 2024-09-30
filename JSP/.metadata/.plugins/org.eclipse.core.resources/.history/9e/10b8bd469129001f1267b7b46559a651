@@ -1,0 +1,86 @@
+package com.seiryo.servlet;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import com.seiryo.entity.Users;
+
+/**
+ * Servlet implementation class CommodityServlet
+ */
+public class CommodityServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public CommodityServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String flag = request.getParameter("flag");
+		response.setContentType("text/html;charset=utf-8");
+		request.setCharacterEncoding("utf-8");
+		if("queryInfo".equals(flag)){
+			try {
+				queryInfo(request, response);
+			} catch (JSONException e) {
+				e.printStackTrace();
+			}
+			return;
+		}else if("editUser".equals(flag)){
+			editUser(request, response);
+			return;
+		}else if("updateUser".equals(flag)){
+			updateUser(request, response);
+			return;
+		}else if("inite".equals(flag)){
+			inite(request, response);
+			return;
+		}else if("deleteUser".equals(flag)){
+			deleteUser(request, response);
+			return;
+		}else if("insertUser".equals(flag)){
+			insertUser(request, response);
+			return;
+		}else if("queryPhoneRepeat".equals(flag)){
+			queryPhoneRepeat(request, response);
+			return;
+		}
+	}
+
+	/**
+	 * @param request
+	 * @param response
+	 */
+	private void queryInfo(HttpServletRequest request, HttpServletResponse response) {
+		int commodityId = Integer.parseInt(request.getParameter("commodityId"));
+		Users user = service.queryUserInfoById(commodityId);
+		response.setContentType("application/json;charset=utf-8");
+        PrintWriter out = response.getWriter();
+        JSONObject jsonObject = new JSONObject();
+        jsonObject.put("userPhone", user.getUserPhone());
+        jsonObject.put("userMoney", user.getUserMoney());
+        jsonObject.put("userName", user.getUserName());
+        jsonObject.put("userBirthday", user.getUserBirthday());
+        jsonObject.put("userSex", user.getUserSex());
+        jsonObject.put("userStatus", user.getUserStatus());
+        out.print(jsonObject.toString());
+        out.flush();
+	}
+
+
+}

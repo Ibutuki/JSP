@@ -1,0 +1,74 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<c:choose>
+	<c:when test="${not empty commodity_id}">
+		<form action="CommodityServlet?flag=updateCommodity" method="post">
+		                    <input type="hidden" id="commodity_id" name="commodity_id" value="${commodity_id}"/></br>
+		                    commodity_name<input type="text" name="commodity_name" id="commodity_name" value="${commodity_name}"/></br>
+		                    commodity_price<input type="text" name="commodity_price" id="commodity_price" value="${commodity_price}"/></br>
+		                    commodity_introduce<input type="text" name="commodity_introduce" id="commodity_introduce" value="${commodity_introduce}"/></br>
+		                    commodity_img<input type="text" name="commodity_img" id="commodity_img" value="${commodity_img}"/></br>
+		                    commodity_age_start<input type="text" name="commodity_age_start" id="commodity_age_start" value="${commodity_age_start}"/></br>
+		                    commodity_age_end<input type="text" name="commodity_age_end" id="commodity_age_end" value="${commodity_age_end}"/></br>
+		                    commodity_time_length<input type="text" name="commodity_time_length" id="commodity_time_length" value="${commodity_time_length}"/></br>
+		                    commodity_applicable_gender<input type="text" name="commodity_applicable_gender" id="commodity_applicable_gender" value="${commodity_applicable_gender}"/></br>
+		                    commodity_applicable_location<input type="text" name="commodity_applicable_location" id="commodity_applicable_location" value="${commodity_applicable_location}"/></br>
+		                    commodity_signing_form<input type="text" name="commodity_signing_form" id="commodity_signing_form" value="${commodity_signing_form}"/></br>
+		                    commodity_liability_zjs<input type="text" name="commodity_liability_zjs" id="commodity_liability_zjs" value="${commodity_liability_zjs}"/></br>
+		                    commodity_detailed_information1<input type="text" name="commodity_detailed_information1" id="commodity_detailed_information1" value="${commodity_detailed_information1}"/></br>
+		                    commodity_detailed_information2<input type="text" name="commodity_detailed_information2" id="commodity_detailed_information2" value="${commodity_detailed_information2}"/></br>
+		                    commodity_detailed_information3<input type="text" name="commodity_detailed_information3" id="commodity_detailed_information3" value="${commodity_detailed_information3}"/></br>
+		                    commodity_type<input type="text" name="commodity_type" id="commodity_type" value="${commodity_type}"/></br>
+		                    shelves<input type="text" name="shelves" id="shelves" value="${shelves}"/></br>
+		                     commodity_liability_info1<input type="text" name="commodity_liability_info1" id="commodity_detailed_information1" value="${commodity_liability_info1}"/></br>
+		                    commodity_liability_info2<input type="text" name="commodity_liability_info2" id="commodity_detailed_information2" value="${commodity_liability_info2}"/></br>
+		                    commodity_liability_info3<input type="text" name="commodity_liability_info3" id="commodity_detailed_information3" value="${commodity_liability_info3}"/></br>
+		                     commodity_liability_info4<input type="text" name="commodity_liability_info4" id="commodity_detailed_information1" value="${commodity_liability_info4}"/></br>
+		                    commodity_liability_info5<input type="text" name="commodity_liability_info5" id="commodity_detailed_information2" value="${commodity_liability_info5}"/></br>
+		                    commodity_liability_info6<input type="text" name="commodity_liability_info6" id="commodity_detailed_information3" value="${commodity_liability_info6}"/></br>
+		                     commodity_liability_info7<input type="text" name="commodity_liability_info7" id="commodity_detailed_information1" value="${commodity_liability_info7}"/></br>		                    
+		                    </br><input type="submit" value="提交">
+		</form>
+	</c:when>
+	<c:otherwise>
+		<form action="CommodityServlet?flag=insertCommodity" method="post">
+		                    <input type="hidden" id="commodity_id" name="commodity_id" value="${commodity_id}"/></br>
+		                    commodity_name<input type="text" name="commodity_name" id="commodity_name" value="${commodity_name}"/></br>
+		                    commodity_price<input type="text" name="commodity_price" id="commodity_price" value="${commodity_price}"/></br>
+		                    commodity_introduce<input type="text" name="commodity_introduce" id="commodity_introduce" value="${commodity_introduce}"/></br>
+		                    commodity_img<input type="text" name="commodity_img" id="commodity_img" value="${commodity_img}"/></br>
+		                    commodity_age_start<input type="text" name="commodity_age_start" id="commodity_age_start" value="${commodity_age_start}"/></br>
+		                    commodity_age_end<input type="text" name="commodity_age_end" id="commodity_age_end" value="${commodity_age_end}"/></br>
+		                    commodity_time_length<input type="text" name="commodity_time_length" id="commodity_time_length" value="${commodity_time_length}"/></br>
+		                    commodity_applicable_gender<input type="text" name="commodity_applicable_gender" id="commodity_applicable_gender" value="${commodity_applicable_gender}"/></br>
+		                    commodity_applicable_location<input type="text" name="commodity_applicable_location" id="commodity_applicable_location" value="${commodity_applicable_location}"/></br>
+		                    commodity_signing_form<input type="text" name="commodity_signing_form" id="commodity_signing_form" value="${commodity_signing_form}"/></br>
+		                    commodity_liability_zjs<input type="text" name="commodity_liability_zjs" id="commodity_liability_zjs" value="${commodity_liability_zjs}"/></br>
+		                    commodity_detailed_information1<input type="text" name="commodity_detailed_information1" id="commodity_detailed_information1" value="${commodity_detailed_information1}"/></br>
+		                    commodity_detailed_information2<input type="text" name="commodity_detailed_information2" id="commodity_detailed_information2" value="${commodity_detailed_information2}"/></br>
+		                    commodity_detailed_information3<input type="text" name="commodity_detailed_information3" id="commodity_detailed_information3" value="${commodity_detailed_information3}"/></br>
+		                    commodity_type<input type="text" name="commodity_type" id="commodity_type" value="${commodity_type}"/>
+		                    shelves<input type="text" name="shelves" id="shelves" value="${shelves}"/>
+		                    </br>
+		                      commodity_liability_info1<input type="text" name="commodity_liability_info1" id="commodity_detailed_information1" value="${commodity_liability_info1}"/></br>
+		                    commodity_liability_info2<input type="text" name="commodity_liability_info2" id="commodity_detailed_information2" value="${commodity_liability_info2}"/></br>
+		                    commodity_liability_info3<input type="text" name="commodity_liability_info3" id="commodity_detailed_information3" value="${commodity_liability_info3}"/></br>
+		                     commodity_liability_info4<input type="text" name="commodity_liability_info4" id="commodity_detailed_information1" value="${commodity_liability_info4}"/></br>
+		                    commodity_liability_info5<input type="text" name="commodity_liability_info5" id="commodity_detailed_information2" value="${commodity_liability_info5}"/></br>
+		                    commodity_liability_info6<input type="text" name="commodity_liability_info6" id="commodity_detailed_information3" value="${commodity_liability_info6}"/></br>
+		                     commodity_liability_info7<input type="text" name="commodity_liability_info7" id="commodity_detailed_information1" value="${commodity_liability_info7}"/></br>		                    
+		                    
+		                    <input type="submit" value="提交">
+		</form>	</c:otherwise>
+</c:choose>
+
+</body>
+</html>

@@ -1,0 +1,602 @@
+2024-07-17 13:27:03 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 13:27:03 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:27:03 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:27:03 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:27:03 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:53:34 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 13:53:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:53:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:53:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:53:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:57:30 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 13:57:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:57:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:57:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:57:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:59:16 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 13:59:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:59:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:59:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 13:59:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:02:07 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 14:02:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:02:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:02:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:02:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:02:07 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 14:02:09 JakartaCommonsLoggingImpl.java DEBUG Created connection 1048027629.
+2024-07-17 14:02:09 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 15c803ef-d47a-4ab9-bbb7-58f193b96eb7]
+2024-07-17 14:02:09 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?) 
+2024-07-17 14:02:09 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: today(String), today(String)
+2024-07-17 14:02:09 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 15c803ef-d47a-4ab9-bbb7-58f193b96eb7]
+2024-07-17 14:20:56 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 14:20:56 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:20:56 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:20:56 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:20:56 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:20:56 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 14:20:58 JakartaCommonsLoggingImpl.java DEBUG Created connection 1048027629.
+2024-07-17 14:20:58 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 7c1a58a3-bdfe-4e58-8e1e-0a15eb68f0b4]
+2024-07-17 14:20:58 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?) 
+2024-07-17 14:20:58 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: today(String), today(String)
+2024-07-17 14:20:58 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 7c1a58a3-bdfe-4e58-8e1e-0a15eb68f0b4]
+2024-07-17 14:21:46 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 14:21:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:21:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:21:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:21:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:21:47 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 14:21:48 JakartaCommonsLoggingImpl.java DEBUG Created connection 1048027629.
+2024-07-17 14:21:48 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 41e0d804-0731-4991-aaf6-ae6ea7e719a0]
+2024-07-17 14:21:48 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?) 
+2024-07-17 14:21:48 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: today(String), today(String)
+2024-07-17 14:21:48 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 41e0d804-0731-4991-aaf6-ae6ea7e719a0]
+2024-07-17 14:22:35 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 14:22:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:22:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:22:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:22:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:22:36 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 14:22:37 JakartaCommonsLoggingImpl.java DEBUG Created connection 629454893.
+2024-07-17 14:22:37 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 1504749a-b3bf-45d8-baa1-2ed805e1663f]
+2024-07-17 14:22:37 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?) 
+2024-07-17 14:22:37 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: today(String), today(String)
+2024-07-17 14:22:37 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 1504749a-b3bf-45d8-baa1-2ed805e1663f]
+2024-07-17 14:23:05 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 14:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 14:23:05 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 14:23:06 JakartaCommonsLoggingImpl.java DEBUG Created connection 1048027629.
+2024-07-17 14:23:06 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: d835ee7e-0eb5-46ba-b846-fe60db8efd5e]
+2024-07-17 14:23:06 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?) 
+2024-07-17 14:23:06 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: service(String), service(String)
+2024-07-17 14:23:06 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: d835ee7e-0eb5-46ba-b846-fe60db8efd5e]
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:21:51 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 15:21:52 JakartaCommonsLoggingImpl.java DEBUG Created connection 1239548589.
+2024-07-17 15:21:52 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 05048a9b-f829-4c2c-a841-3cab2cc1d470]
+2024-07-17 15:21:52 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert users(user_name,pwd,gender,email) values(?,?,?,?) 
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 15:28:55 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 15:28:56 JakartaCommonsLoggingImpl.java DEBUG Created connection 1239548589.
+2024-07-17 15:28:56 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: f69b89e1-6a1e-4d60-a3c7-55c2b1aa606f]
+2024-07-17 15:28:56 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert users(user_name,pwd,gender,email) values(?,?,?,?) 
+2024-07-17 15:28:56 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: service(String), service(String), service(String), service(String)
+2024-07-17 15:28:57 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: f69b89e1-6a1e-4d60-a3c7-55c2b1aa606f]
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:02:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:06:41 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:06:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:06:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:06:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:06:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:07:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:09:53 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:09:54 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:09:54 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 24dc3adc-32fb-4e79-a4a9-9310c9e0b9f1]
+2024-07-17 16:09:54 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE where email = ? 
+2024-07-17 16:09:54 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: seivice(String)
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:10:29 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:10:30 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:10:30 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: cf681557-1a99-4109-922b-c1b40e30f91f]
+2024-07-17 16:10:30 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE email = ? 
+2024-07-17 16:10:30 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: seivice(String)
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:11:10 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:11:11 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:11:11 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 61d02701-13aa-4108-8080-66f45fa0ef3c]
+2024-07-17 16:11:11 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE email = ? 
+2024-07-17 16:11:11 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: seivice(String)
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:12:12 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:12:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:13 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:12:14 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:12:14 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: dcc9fb8a-0f1c-4362-83e0-e1598987cdc1]
+2024-07-17 16:12:14 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE email = ? 
+2024-07-17 16:12:14 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: seivice(String)
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:12:21 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:12:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:22 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:12:23 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:12:23 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 57a5fec8-842c-41b1-b5e7-bfe32b413cef]
+2024-07-17 16:12:23 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE email = ? 
+2024-07-17 16:12:23 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: seivice(String)
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:49 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:12:50 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:12:50 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 77b7bfcb-7e41-436f-a645-014e73fb4d42]
+2024-07-17 16:12:50 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE email = ? 
+2024-07-17 16:12:50 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: sevice(String)
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 I  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:12:57 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:12:58 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:12:58 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: f9eb83c2-9d5c-453c-bf4e-c0b44742662c]
+2024-07-17 16:12:58 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE email = ? 
+2024-07-17 16:12:58 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: service(String)
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:15:29 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:15:31 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:15:31 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 313bba23-cfa7-4cd5-9851-828a427fe81c]
+2024-07-17 16:15:31 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE user_name = ? and pwd = ? and gender = ? and email = ? 
+2024-07-17 16:15:31 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: null, null, null, service(String)
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:16:11 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:16:12 JakartaCommonsLoggingImpl.java DEBUG Created connection 1461149300.
+2024-07-17 16:16:12 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: cda7d02b-b35c-49ef-983c-fcf5b0631a56]
+2024-07-17 16:16:12 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users WHERE email = ? 
+2024-07-17 16:16:12 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: service(String)
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:23:31 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:23:32 JakartaCommonsLoggingImpl.java DEBUG Created connection 210652080.
+2024-07-17 16:23:32 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 4c1b67fb-f88d-4e23-be68-bdc946f8ffd0]
+2024-07-17 16:23:32 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: SET user_name = ?, gender = ? where id = ? 
+2024-07-17 16:23:32 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: ºÃ(String), Å®(String), 1(Integer)
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:24:05 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:24:06 JakartaCommonsLoggingImpl.java DEBUG Created connection 210652080.
+2024-07-17 16:24:06 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 561d0a1a-66c5-4d14-84aa-1740f3fbbfb2]
+2024-07-17 16:24:06 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: update users SET user_name = ?, gender = ? where id = ? 
+2024-07-17 16:24:06 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: ºÃ(String), Å®(String), 1(Integer)
+2024-07-17 16:24:06 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 561d0a1a-66c5-4d14-84aa-1740f3fbbfb2]
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:32:14 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:32:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:15 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:32:16 JakartaCommonsLoggingImpl.java DEBUG Created connection 700072760.
+2024-07-17 16:32:16 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 8fcba0b4-3323-454f-8926-757d3e59b3d1]
+2024-07-17 16:32:16 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from users where id = ? id = ? id = ? 
+2024-07-17 16:32:16 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 1(Integer), 2(Integer), 3(Integer)
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:32:46 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:32:48 JakartaCommonsLoggingImpl.java DEBUG Created connection 700072760.
+2024-07-17 16:32:48 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 28d550f1-8d33-40d5-9745-6687cfa1f9fe]
+2024-07-17 16:32:48 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from users where id = ? delete from users where id = ? delete from users where id = ? 
+2024-07-17 16:32:48 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 1(Integer), 2(Integer), 3(Integer)
+2024-07-17 16:32:48 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 28d550f1-8d33-40d5-9745-6687cfa1f9fe]
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:38:36 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:38:37 JakartaCommonsLoggingImpl.java DEBUG Created connection 1300393335.
+2024-07-17 16:38:37 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 4e26ffa9-4c19-4862-8f19-25cf75d60fe3]
+2024-07-17 16:38:37 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users where id = ? select * from users where id = ? 
+2024-07-17 16:38:37 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 5(Integer), 6(Integer)
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:39:27 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:39:28 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:39:29 JakartaCommonsLoggingImpl.java DEBUG Created connection 1300393335.
+2024-07-17 16:39:29 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: f978d1be-7726-451d-a7c8-df36c09a7488]
+2024-07-17 16:39:29 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users where id = ? select * from users where id = ? 
+2024-07-17 16:39:29 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 5(Integer), 6(Integer)
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-17 16:41:31 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-17 16:41:32 JakartaCommonsLoggingImpl.java DEBUG Created connection 1300393335.
+2024-07-17 16:41:32 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: d1ee03f3-21b2-4c94-9ee4-c3e7bdd88353]
+2024-07-17 16:41:32 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from users where id in ( ? , ? ) 
+2024-07-17 16:41:32 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 5(Integer), 6(Integer)
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:49:48 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:56:53 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Reader entry: User.class
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Listing file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/D:/JSP/MyBatis_L3/bin/com/seiryo/entity/User.class
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   4 M  com/seiryo/entity/User  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; pwd gender email getUserName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this Lcom/seiryo/entity/User; setUserName (Ljava/lang/String;)V 	getGender	   
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Checking to see if class com.seiryo.entity.User matches criteria [is assignable to Object]
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-18 13:57:07 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection

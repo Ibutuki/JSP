@@ -1,0 +1,306 @@
+2024-07-15 15:16:55 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 15:16:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:16:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:16:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:16:55 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:16:55 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 15:16:57 JakartaCommonsLoggingImpl.java DEBUG Created connection 1586845078.
+2024-07-15 15:16:57 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: bfb3ab94-3ec8-43cd-af9f-dc03a9c1dcb7]
+2024-07-15 15:16:57 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values('name','pwd') 
+2024-07-15 15:16:57 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 
+2024-07-15 15:17:13 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 15:17:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:13 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:13 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 15:17:14 JakartaCommonsLoggingImpl.java DEBUG Created connection 1586845078.
+2024-07-15 15:17:14 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: b4996042-7b47-4096-a3bb-21da400a781b]
+2024-07-15 15:17:14 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values('name','pwd') 
+2024-07-15 15:17:14 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 
+2024-07-15 15:17:40 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 15:17:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:17:40 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 15:17:42 JakartaCommonsLoggingImpl.java DEBUG Created connection 1586845078.
+2024-07-15 15:17:42 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 3c1d799c-da72-40d7-b03b-5c8d42a0321e]
+2024-07-15 15:17:42 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user(name,pwd) values('name','pwd') 
+2024-07-15 15:17:42 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 
+2024-07-15 15:18:39 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 15:18:39 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:39 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:39 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:39 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:39 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 15:18:40 JakartaCommonsLoggingImpl.java DEBUG Created connection 1586845078.
+2024-07-15 15:18:40 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: d6fbc35a-6101-49f4-adf7-5990883604b1]
+2024-07-15 15:18:40 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user(name,pwd) values('name','pwd') 
+2024-07-15 15:18:40 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 
+2024-07-15 15:18:40 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: d6fbc35a-6101-49f4-adf7-5990883604b1]
+2024-07-15 15:18:57 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 15:18:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:57 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 15:18:57 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 15:18:58 JakartaCommonsLoggingImpl.java DEBUG Created connection 1586845078.
+2024-07-15 15:18:58 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 84fc2b40-b5cc-4ee5-ae9e-dc1573a0838e]
+2024-07-15 15:18:58 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values('name1','pwd1') 
+2024-07-15 15:18:59 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 
+2024-07-15 15:18:59 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 84fc2b40-b5cc-4ee5-ae9e-dc1573a0838e]
+2024-07-15 16:57:50 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 16:57:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 16:57:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 16:57:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 16:57:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 16:57:50 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 16:57:51 JakartaCommonsLoggingImpl.java DEBUG Created connection 736778932.
+2024-07-15 16:57:51 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: b80e7adc-75d1-41d9-a030-f60e64a363c9]
+2024-07-15 16:57:51 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?); 
+2024-07-15 17:03:35 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:03:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:03:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:03:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:03:35 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:03:35 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:03:36 JakartaCommonsLoggingImpl.java DEBUG Created connection 1909546776.
+2024-07-15 17:03:36 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 0ad12f27-ede1-4087-92d1-62f5ca894086]
+2024-07-15 17:03:36 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?); 
+2024-07-15 17:04:01 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:04:02 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:04:02 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:04:02 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:04:02 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:04:02 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:04:03 JakartaCommonsLoggingImpl.java DEBUG Created connection 1909546776.
+2024-07-15 17:04:03 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: a2e5d7e3-06b0-431b-98bd-d48b37e69394]
+2024-07-15 17:04:03 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert t_user values(?,?); 
+2024-07-15 17:04:03 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: insert(String), insert(String)
+2024-07-15 17:04:03 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: a2e5d7e3-06b0-431b-98bd-d48b37e69394]
+2024-07-15 17:07:31 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:07:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:07:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:07:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:07:31 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:07:31 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:07:32 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:07:32 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 4d614981-059b-465b-8ba6-00d43d025f23]
+2024-07-15 17:07:32 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:07:32 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 1(Integer)
+2024-07-15 17:08:30 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:08:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:08:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:08:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:08:30 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:08:30 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:08:31 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:08:31 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 3e225342-0e15-471a-b7fc-aec161205b64]
+2024-07-15 17:08:31 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:08:31 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 9(Integer)
+2024-07-15 17:09:47 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:09:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:09:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:09:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:09:48 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:09:48 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:09:49 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:09:49 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 5531c9a0-7737-455f-88e6-2288e379dc9a]
+2024-07-15 17:09:49 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:09:49 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 9(Integer)
+2024-07-15 17:10:14 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:10:14 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:14 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:14 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:14 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:14 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:10:15 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:10:15 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: cf749417-c7d5-4478-a3f8-16fac7a7e264]
+2024-07-15 17:10:15 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:10:15 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 9(Integer)
+2024-07-15 17:10:15 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: cf749417-c7d5-4478-a3f8-16fac7a7e264]
+2024-07-15 17:10:40 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:10:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:40 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:10:40 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:10:41 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:10:41 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 0133848c-f0d3-4507-a79c-dc69e60cf2d7]
+2024-07-15 17:10:41 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:10:41 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 1018(Integer)
+2024-07-15 17:10:41 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 0133848c-f0d3-4507-a79c-dc69e60cf2d7]
+2024-07-15 17:15:48 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:15:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:15:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:15:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:15:49 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:15:49 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:15:50 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:15:50 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: c1a264cd-115b-4ab8-bec4-c2ede84f0dc9]
+2024-07-15 17:15:50 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:15:50 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 1019(Integer)
+2024-07-15 17:16:01 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:16:01 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:01 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:01 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:01 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:01 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:16:02 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:16:02 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: f5808550-1afd-49bc-a065-d9bc235d452d]
+2024-07-15 17:16:02 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:16:02 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 1019(Integer)
+2024-07-15 17:16:02 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: f5808550-1afd-49bc-a065-d9bc235d452d]
+2024-07-15 17:16:45 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:16:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:16:45 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:16:46 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:16:46 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 9026c8eb-d022-40fd-8742-5aaf086ac4f4]
+2024-07-15 17:16:46 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: delete from t_user where id = ? 
+2024-07-15 17:16:46 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 8(Integer)
+2024-07-15 17:16:46 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: 9026c8eb-d022-40fd-8742-5aaf086ac4f4]
+2024-07-15 17:17:21 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:17:21 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:21 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:21 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:21 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:21 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:17:22 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:17:22 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 3bf86ba0-e136-4c9d-8639-3fd7910a2973]
+2024-07-15 17:17:22 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: update t_user set ?,? where id = ? 
+2024-07-15 17:17:22 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: update(String), update(String), 1020(Integer)
+2024-07-15 17:17:49 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:17:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:50 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:17:50 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:17:51 JakartaCommonsLoggingImpl.java DEBUG Created connection 392781299.
+2024-07-15 17:17:51 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: a0d49ead-94a4-4946-ac4d-e5577c396fd7]
+2024-07-15 17:17:51 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: update t_user set name = ?,pwd = ? where id = ? 
+2024-07-15 17:17:51 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: update(String), update(String), 1020(Integer)
+2024-07-15 17:17:51 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [ConnectionID:1 ClientConnectionId: a0d49ead-94a4-4946-ac4d-e5577c396fd7]
+2024-07-15 17:22:46 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:22:47 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:22:47 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:22:47 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:22:47 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:22:47 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:22:48 JakartaCommonsLoggingImpl.java DEBUG Created connection 770911223.
+2024-07-15 17:22:48 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: b72937df-f786-4ce8-95da-38ad6380f207]
+2024-07-15 17:22:48 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select from t_user where id = ? 
+2024-07-15 17:22:48 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 4(Integer)
+2024-07-15 17:23:05 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:23:05 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:23:05 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:23:06 JakartaCommonsLoggingImpl.java DEBUG Created connection 770911223.
+2024-07-15 17:23:06 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 1db894a4-2261-43c9-b53e-0f9d5a670902]
+2024-07-15 17:23:06 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select * from t_user where id = ? 
+2024-07-15 17:23:06 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 4(Integer)
+2024-07-15 17:24:21 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:24:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:24:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:24:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:24:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:24:22 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:24:23 JakartaCommonsLoggingImpl.java DEBUG Created connection 770911223.
+2024-07-15 17:24:23 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 3ce55688-5cb8-4bcb-a9c2-b74b4917d525]
+2024-07-15 17:24:23 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:24:23 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 4(Integer)
+2024-07-15 17:26:00 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:26:00 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:26:00 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:26:00 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:26:00 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:26:00 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:26:01 JakartaCommonsLoggingImpl.java DEBUG Created connection 770911223.
+2024-07-15 17:26:01 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 6ecabfa2-5eef-4af6-87fb-927fc851298f]
+2024-07-15 17:26:01 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:26:01 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 4(Integer)
+2024-07-15 17:28:04 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:28:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:04 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:28:06 JakartaCommonsLoggingImpl.java DEBUG Created connection 1004095028.
+2024-07-15 17:28:06 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 40e7a08e-8553-4704-848d-100832e25cc8]
+2024-07-15 17:28:06 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:28:06 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 4(Integer)
+2024-07-15 17:28:44 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:28:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:45 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:28:45 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:28:46 JakartaCommonsLoggingImpl.java DEBUG Created connection 1004095028.
+2024-07-15 17:28:46 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: df575b6a-e165-414d-967a-9496412976e1]
+2024-07-15 17:28:46 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,account,password from t_user where id = ? 
+2024-07-15 17:28:46 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 4(Integer)
+2024-07-15 17:29:42 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:29:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:42 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:43 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:29:44 JakartaCommonsLoggingImpl.java DEBUG Created connection 1004095028.
+2024-07-15 17:29:44 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 5d77dd6b-e9eb-430c-bd04-98828f93a101]
+2024-07-15 17:29:44 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:29:44 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 4(Integer)
+2024-07-15 17:29:59 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:29:59 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:59 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:59 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:59 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:29:59 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:30:01 JakartaCommonsLoggingImpl.java DEBUG Created connection 1004095028.
+2024-07-15 17:30:01 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 7ca8fc4e-b3ff-463a-a3b6-8f8dd5768fc5]
+2024-07-15 17:30:01 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:30:01 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 7(Integer)
+2024-07-15 17:30:17 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:30:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:30:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:30:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:30:17 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:30:17 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:30:18 JakartaCommonsLoggingImpl.java DEBUG Created connection 1004095028.
+2024-07-15 17:30:18 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 50b758c5-8241-4fd8-b57e-43b8e40a8142]
+2024-07-15 17:30:18 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:30:18 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 7(Integer)
+2024-07-15 17:32:46 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:32:46 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:32:47 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:32:48 JakartaCommonsLoggingImpl.java DEBUG Created connection 1004095028.
+2024-07-15 17:32:48 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: 4da25429-fee0-4fa6-8a52-d82e6a039ff3]
+2024-07-15 17:32:48 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:32:48 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 7(Integer)
+2024-07-15 17:34:04 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:34:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:04 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:04 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:34:05 JakartaCommonsLoggingImpl.java DEBUG Created connection 255944888.
+2024-07-15 17:34:05 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: d2bcab5b-5d87-42b5-ad89-b04c63281a59]
+2024-07-15 17:34:05 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user where id = ? 
+2024-07-15 17:34:05 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: null
+2024-07-15 17:34:15 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2024-07-15 17:34:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:15 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2024-07-15 17:34:15 JakartaCommonsLoggingImpl.java DEBUG Openning JDBC Connection
+2024-07-15 17:34:16 JakartaCommonsLoggingImpl.java DEBUG Created connection 1991313236.
+2024-07-15 17:34:16 JakartaCommonsLoggingImpl.java DEBUG ooo Using Connection [ConnectionID:1 ClientConnectionId: aea50bd2-b61e-4116-838d-baa97ceff3f8]
+2024-07-15 17:34:16 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: select id,name,pwd from t_user 
+2024-07-15 17:34:16 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 

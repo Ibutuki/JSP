@@ -1,0 +1,31 @@
+/**
+ * shop.js文件
+ */
+//设置js方法来操作界面下拉框，动态设置值
+
+
+//获取内容
+
+
+//设置当前时间
+
+
+//每次打开此网页进行清空sessionStorage避免出现金额增多情况
+
+
+$(function(){
+	$("#userName2").blur(function(){
+		var name = $("#userName2").val();
+		$.ajax({
+			type : "post",//提交方式
+			url : "ShopServlet?flag=checkUser",//拦截路径
+			data : "name=" + msg,//参数email（第一个）是JavaScript对象中用于标识值的键，而 email（第二个）是存储用户输入数据的变量，是这个键的值。
+			success : function(data) {//data就是后台输出的数据
+				$("#exists").html(data);
+			},
+			error: function() {
+				
+			}
+		});
+	});
+});
